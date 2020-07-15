@@ -1,2 +1,8 @@
 Hello World!
 ez miracle.
+git add file.name
+git commit -m 'change text'
+git status
+git diff
+cd
+pwd
