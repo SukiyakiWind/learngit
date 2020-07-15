@@ -18,3 +18,5 @@ $ git checkout -b <name> === $ git branch <name> $ git checkout <name> === git s
 $ git checkout -d <name>
 $ git merge <name>
 $ git switch <name>
+
+bug appear
