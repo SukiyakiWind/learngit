@@ -6,3 +6,7 @@ git status
 git diff
 cd
 pwd
+rm filename.xxx
+git rm filename.xxx
+
+$ git checkout -b dev === $ git branch dev $ git checkout dev
