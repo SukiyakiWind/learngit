@@ -9,4 +9,8 @@ pwd
 rm filename.xxx
 git rm filename.xxx
 
-$ git checkout -b dev === $ git branch dev $ git checkout dev
+$ git branch
+$ git checkout -b <name> === $ git branch <name> $ git checkout <name> === git switch -c <name>
+$ git checkout -d <name>
+$ git merge <name>
+$ git switch <name>
