@@ -9,6 +9,10 @@ pwd
 rm filename.xxx
 git rm filename.xxx
 
+代码提交
+git push
+
+分支管理策略：
 $ git branch
 $ git checkout -b <name> === $ git branch <name> $ git checkout <name> === git switch -c <name>
 $ git checkout -d <name>
